@@ -3,4 +3,11 @@ Thumbs.db
 _pycache_/
 *.pyc
 .venv/
-env/
+env/venv/
+__pycache__/
+*.pyc
+.env
+venv/
+__pycache__/
+*.pyc
+.env
